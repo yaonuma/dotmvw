@@ -11,4 +11,8 @@ generation related packages such as python-pptx to automate FEA post-processing.
 Dependencies:  
 + anytree 2.7.3
 
-=====================================================# dotmvw
+Installation:  
++ From PyPi using pip:
+`pip install dotmvw`
+  
+=====================================================
